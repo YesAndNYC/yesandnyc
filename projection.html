@@ -1,0 +1,103 @@
+---
+---
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic|Abel' rel='stylesheet' type='text/css'>
+<script src="//code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
+
+<style>
+	body{
+		background-color:black;
+		font-family:'abel';
+		font-size:25px;
+		line-height:25px;
+	}
+
+.fore {
+    width:900px;
+	overflow-x:hidden;
+	color:white;
+	margin-top:5px;
+}
+
+h1{
+	font-size:60px;
+	text-transform: uppercase;
+}
+
+.image {
+    position:relative;
+}
+.image img {
+    position:absolute;
+    top:0;
+    left:0;
+	height:400px;
+}
+	
+	
+	</style>
+
+
+	<div class="fore">
+		<h1>Technology as Hands</h1>
+		<p>An exploration of the usage of technology in the making of art and design.</p>
+		<p>More info: tehnologyashands.com</p>
+		<p>#technologyashands</p>
+	
+</div>
+
+<div class="image">
+
+	{% for link in site.artists %}
+		<img src="{{link.image}}" />
+	{% endfor %}
+	
+    <img src="https://cdn.shopify.com/s/files/1/0296/9253/files/islands01.jpg?8147059875492707662" />
+	<img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/e35/11421938_681264948640011_752139366_n.jpg" />	
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/BTW-CERAMICS-PROCESS-1.jpg?1918051996754397927" />
+	<img src="https://scontent-lga3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11379958_660848657392471_1701921323_n.jpg" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/Dael-Oates-5.jpg?5003612799049910422" />
+	<img src="https://scontent-lga3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11856613_1681926768709859_1231331857_n.jpg" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/EDWARD-GRANGER-PROCESS-5.jpg?16365197519431348185" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/NOBLE-GOODS-HONEYCOMB-TRAY-PROCESS.jpg?5517384324026542754" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/image1_13.JPG?8560839126389323014" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0742.JPG?10867955300849467745" />
+	<img src="https://scontent-lga3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/11910462_153664394975613_129342182_n.jpg" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-LYNN-STERLING-PROCESS-2.jpg?1122424877518274988" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-KRIENDLER-PROCESS.jpg?6719508056328805575" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-STOOL-CUT.jpg?13511963294580445596" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/SUSAN-WEINTHALER-PROCESS-3.jpg?13615407881001651761" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/SUSAN-WEINTHALER-PROCESS-2.jpg?13615407881001651761" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/WILLIAM-SURAN-PROCESS.jpg?14850806426495452010" />
+	
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/iguana_3.jpg?8147059875492707662" />
+	<img src="https://scontent-lga3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/11849925_851379741649441_61350832_n.jpg" />
+	<img src="https://scontent-lga3-1.cdninstagram.com/hphotos-xpf1/t51.2885-15/e35/10608023_792045694249494_743554990_n.jpg" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/BTW-CERAMICS-PROCESS-3.jpg?1918051996754397927" />	
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMB_MIMOZA.jpg?8259736920798729283" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMB_ERIN_NOVA.jpg?8259736920798729283" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMB_NITYA.jpg?8259736920798729283" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMB_RENE.jpg?8259736920798729283" />
+	<img src="https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e35/12141936_840944332692985_666155989_n.jpg" />
+	<img src="https://scontent-lga3-1.cdninstagram.com/hphotos-xfa1/t51.2885-15/e35/12142154_760644950729157_1110909233_n.jpg" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/EDWARD-GRANGER-PROCESS-6.jpg?16365197519431348185" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/11665753_10153527235285555_645821459914412688_n.jpg?7615820089017516610" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/PEG-WOODWORKING-CORD-WEAVING-STEELHEART-CHAIR.jpg?8296652377699038757" />
+	<img src="https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-LYNN-STERLING-STRING-THEORY-A.jpg?17377211726947827732" />
+	
+	
+	
+	
+	
+	
+
+</div>
+
+<script>
+$('.image img:gt(0)').hide(); // to hide all but the first image when page loads
+
+setInterval(function () {
+    $('.image :first-child').fadeOut(1000)
+        .next().fadeIn(1000).end().appendTo('.image');
+}, 20000);
+	
+	</script>

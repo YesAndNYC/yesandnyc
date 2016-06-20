@@ -1,0 +1,219 @@
+@media (max-width: 1024px) {
+
+.logo{
+  position:absolute;
+  top:10px;
+  left:10px;
+}
+
+.logo img{
+  width:100px;
+}
+
+.headerimage{
+  width:100%;
+  text-align:center;
+}
+
+.headerimage img{
+  width:100%;
+}
+
+    .headerbox{
+      width:100%;
+      padding-top:20px;
+      padding-bottom:20px;
+      text-align:center;
+      background-image:url("/images/art copy.jpg");
+    }
+
+    .headerbox img{
+      width:100px;
+    }
+
+    .headertext{
+      width:90%;
+      margin:auto;
+      
+    }
+
+    .headertext a{
+      color:white;
+      font-weight:bold;
+    }
+
+    h1{
+      font-size:45px;
+      line-height:55px;
+      font-weight:600;
+      text-transform:uppercase;
+    }
+
+    h2{
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 400;
+    font-family: "abel";
+    text-transform: uppercase;
+      
+    }
+
+    .greycontainer{
+      width:100%;
+      
+    }
+
+.introtext{
+  width:95%;
+  margin:auto;
+}
+
+.introtext li{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+#textblock1{
+  display:none;
+}
+
+    .gridbox{
+      width:100%;
+      margin:auto;
+    }
+
+    .sitebox{
+      width:28%;
+      padding:2.5%;
+      max-width:350px;
+      height:40px;
+      margin:auto;
+      border-radius:2%;
+      background-color:white;
+      margin-top:30px;
+      margin-bottom:30px;
+      float:left
+    }
+
+.sitebox .image{
+  background-size:cover;
+    width:100%;
+    height:50px;
+  background-position:center;
+}
+
+    .sitebox img{
+      width:100%;
+    }
+
+
+    h3{
+      text-align:center;
+      text-transform:uppercase;
+      font-family:"abel";
+      font-size:12px;
+      line-height:12px;
+    }
+
+    .sitebox p{
+      width:90%;
+      text-align:center;
+      margin-left:auto;
+      margin-right:auto;
+    }
+
+    .description{
+      padding-bottom:15px;
+    }
+
+.introtext img{
+  width:90%;
+  display:block;
+  margin:auto;
+}
+
+.introtext video{
+  width:100%;
+}
+
+
+/* artist page */
+
+.artisthero{
+  width:100%; 
+  display:block;
+  margin:autso;
+}
+
+.homebutton{
+  width:90%;
+  margin:auto;
+  font-size:10px;
+}
+
+.homebutton a{
+  color:black;
+}
+
+
+.introtext video{
+  width:100%;
+}
+
+.introtext iframe{
+  margin-top:20px !important;
+  max-width:100% !important;
+}
+
+
+
+    /* footer */
+
+footer {
+ width:100%;
+ margin-top:30px;
+ background-color:black;
+  clear:both;
+}
+
+.footertext{
+  color:white;
+  width:100%;
+  text-align:center;
+  font-size:15px;
+  padding-top:10px;
+}
+
+footer h2{
+ font-size:18px; 
+}
+
+.footercontainer{
+ width:100;
+  margin:auto;
+}
+
+.footerbox{
+ width:90%;
+ margin:auto;
+ margin-top:20px;
+  color:white;
+  padding-top:50px;
+  padding-bottom:50px;
+  font-size:12px;
+}
+
+
+.footerlogo {
+	width:100%;
+}
+
+
+
+
+
+
+
+
+
+}
