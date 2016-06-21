@@ -18,9 +18,12 @@ a {
  }
 
  h1:after{
-   width:100px;
-   border-bottom:5px solid #00ff00;
-   margin-left:-50px;
+    width: 100px;
+    display: block;
+    border-bottom: 8px solid #00ff00;
+    margin-left: 143px;
+    margin-top: -15px;
+    content: '';
  }
 
 
