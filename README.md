@@ -1,12 +1,10 @@
-Technology as Hands
+Yes! And...
 ========
 
-A pop-up art and design show happening in Gowanus, October 23rd - 30th 2015
+The website of yesand.nyc - the consulting practice from Tom Critchlow.
 
-A Fiercely Curious production.
+Website by Tom Critchlow
 
-Website built by @tomcritchlow
+tjcritchlow@gmail.com
 
-Questions? tjcritchlow@gmail.com
-
-Website: http://www.technologyashands.com
+Thanks
