@@ -46,12 +46,12 @@ header .logo{
 
 .navigation{
   float:right;
+  margin-top:35px;
 }
 
 .navigation a{
   display:inline-block;
   float:right;
-  line-height:100px;
   margin-left:50px;
 }
 
