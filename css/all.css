@@ -9,6 +9,7 @@ body{
 
 a {
   text-decoration: none;
+  color:#212121;
  }
 
  a:after{
@@ -36,7 +37,7 @@ a {
    width:100%;
    font-family:'raleway';
    font-size:30px;
-   font-weight:strong;
+   font-weight:600;
  }
 
 header .logo{
