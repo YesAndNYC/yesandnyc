@@ -26,4 +26,26 @@ a {
     content: '';
  }
 
+ header{
+   width:1200px;
+   margin:auto;
+   font-family:'raleway';
+   font-size:30px;
+   font-weight:strong;
+ }
+
+header .logo{
+  height:100px;
+}
+
+navigation{
+  float:right
+}
+
+navigation a{
+  display:block;
+  margin-left:50px;
+}
+
+
 
