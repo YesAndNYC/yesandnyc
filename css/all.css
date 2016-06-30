@@ -14,6 +14,7 @@ a {
  a:after{
    border-bottom:1px solid #00ff00;
    display:block;
+   content:'';
  }
 
  h1{
