@@ -43,11 +43,11 @@ header .logo{
   height:100px;
 }
 
-navigation{
+.navigation{
   float:right;
 }
 
-navigation a{
+.navigation a{
   display:inline-block;
   float:right;
   line-height:100px;
