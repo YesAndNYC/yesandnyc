@@ -61,7 +61,7 @@ header .logo{
   margin-left:50px;
 }
 
-a:hover:after{
+navigation a:hover:after{
   border-bottom:8px solid #00ff00;
 }
 
