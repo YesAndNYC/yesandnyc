@@ -27,8 +27,7 @@ a {
  }
 
  header{
-   width:1200px;
-   margin:auto;
+   width:100%;
    font-family:'raleway';
    font-size:30px;
    font-weight:strong;
