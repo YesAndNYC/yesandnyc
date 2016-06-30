@@ -62,7 +62,7 @@ header .logo{
 }
 
 navigation a:hover:after{
-  border-bottom:4px solid #00ff00;
+  border-bottom:8px solid #00ff00;
 }
 
 brand{
