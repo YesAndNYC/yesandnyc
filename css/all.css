@@ -1,11 +1,17 @@
 html{
   margin:0px;
   padding:0px;
+  font-family:'raleway';
 }
 
 body{
   color:#212121;
 }
+
+p{
+  font-family:'open sans';
+  font-size:20px;
+  }
 
 a {
   text-decoration: none;
