@@ -1,0 +1,24 @@
+---
+---
+
+{% include head.html %}
+
+<div class="wrapper">
+
+    <div class="container">
+
+    {% include header.html %}
+
+    {% for post in site.posts %}
+
+    {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+
+    {% endfor %}
+
+
+    </div>
+    {% include footer.html %}
+
+</div>
+
+{% include googleanalytics.html %}
