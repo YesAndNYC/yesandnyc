@@ -58,6 +58,7 @@ header .logo{
   margin-left:50px;
   text-decoration: none;
   color:#212121;
+  border-bottom:2px solid #00ff00;
 }
 
 .navigation a:hover:after{
