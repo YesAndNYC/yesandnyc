@@ -21,21 +21,6 @@ p a {
   border-bottom:1px solid #00ff00;
  }
 
- h1{
-   font-family:'raleway';
-   font-weight:600;
-   font-size:50px;
- }
-
- h1:after{
-    width: 100px;
-    display: block;
-    border-bottom: 8px solid #00ff00;
-    margin-left: 143px;
-    margin-top: -15px;
-    content: '';
- }
-
  header{
    width:100%;
    font-family:'raleway';
@@ -78,6 +63,8 @@ margin-top:35px;
 
 .homepagebox{
   width:100%;
+  text-align:center;
+  line-height:30px;
 }
 
 .homepagebox span{
@@ -91,12 +78,11 @@ margin-top:35px;
     display: block;
     border-bottom: 8px solid #00ff00;
     margin-left: 143px;
-    margin-top: -15px;
     content: '';
  }
 
 .homepagebox p{
-  
+  width:800px;
 }
 
 footer{
