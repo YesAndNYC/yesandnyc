@@ -66,7 +66,7 @@ margin-top:35px;
 }
 
 .homepagebox{
-  width:100%;
+  width:800px;;
   text-align:center;
   line-height:30px;
   margin:auto;
@@ -87,7 +87,7 @@ margin-top:35px;
  }
 
 .homepagebox p{
-  width:800px;
+  text-align:center;
 }
 
 footer{
