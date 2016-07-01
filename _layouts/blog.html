@@ -1,0 +1,29 @@
+{% include head.html %}
+
+<div class="wrapper">
+
+    <div class="container">
+
+    <header>
+    <brand>!&</brand>
+
+    <div class="navigation">
+    <a href="/about">about</a>
+    <a href="/work">work</a>
+    <a href="/blog">writing</a>
+    </div>
+
+    </header>
+
+    <div class="posttitle">{{post.title}}</div>
+    {% if post.subtitle %}<div class="subtitle">{{post.subtitle}}</div>{% endif %}
+
+    {{post.content}}
+
+
+    </div>
+    {% include footer.html %}
+
+</div>
+
+{% include googleanalytics.html %}
