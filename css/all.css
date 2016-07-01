@@ -62,7 +62,7 @@ header .logo{
   border-bottom:2px solid #00ff00;
 }
 
-.navigation a:hover:after{
+.navigation a:hover{
   border-bottom:4px solid #00ff00;
 }
 
