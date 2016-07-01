@@ -47,6 +47,10 @@ header .logo{
   height:100px;
 }
 
+header a{
+  color:#212121;
+}
+
 .navigation{
   float:right;
   margin-top:35px;
