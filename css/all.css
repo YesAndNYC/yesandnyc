@@ -79,18 +79,21 @@ footer{
   background-color:#f3f3f3;
   margin:50px;
   height:200px;
+  text-align:center;
+  color:#434343;
 }
 
 .footerbrand{
   font-size:50px;
   font-weight:600;
-  float:left;
   padding:10px;
+  display:inline-block;
 }
 
 .footerinfo{
   font-family:"open sans";
   font-size:20px;
   padding:10px;
-  float:left;
+  display:inline-block;
+  text-align:left;
 }
