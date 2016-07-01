@@ -81,12 +81,13 @@ margin-top:35px;
 }
 
 .homepagebox h1{
-  float:left;
+  width:400px;
+  margin:50px;
 }
 
 .homepagebox p{
-  float:left;
-  
+  width:800px;
+
 }
 
 footer{
