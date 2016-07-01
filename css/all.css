@@ -79,10 +79,9 @@ margin-top:35px;
 footer{
   width:100%;
   background-color:#f3f3f3;
-  height:50px;
+  height:200px;
   text-align:center;
   color:#434343;
-  padding-top:75px;
   position:absolute;
   bottom:0;
 }
@@ -92,6 +91,7 @@ footer{
   font-weight:600;
   padding:10px;
   display:inline-block;
+  margin-top:60px;
 }
 
 .footerinfo{
