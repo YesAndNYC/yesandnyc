@@ -16,7 +16,6 @@ body{
 
 .wrapper{
   min-height: 100%;
-  position: relative;
 }
 
 .container{
@@ -77,7 +76,7 @@ margin-top:35px;
 }
 
 .homepagebox{
-  width:800px;;
+  width:800px;
   text-align:center;
   line-height:30px;
   margin:auto;
