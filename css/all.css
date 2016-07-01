@@ -13,15 +13,10 @@ p{
   font-size:20px;
   }
 
-a {
+p a {
   text-decoration: none;
   color:#212121;
- }
-
- a:after{
-   border-bottom:1px solid #00ff00;
-   display:block;
-   content:'';
+  border-bottom:1px solid #00ff00;
  }
 
  h1{
