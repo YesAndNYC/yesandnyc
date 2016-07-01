@@ -59,6 +59,11 @@ header .logo{
   text-decoration: none;
   color:#212121;
   border-bottom:2px solid #00ff00;
+    -webkit-transition: border 500ms ease;
+  -moz-transition: border 500ms ease;
+  -ms-transition: border 500ms ease;
+  -o-transition: border 500ms ease;
+  transition: border 500ms ease; 
 }
 
 .navigation a:hover{
@@ -110,6 +115,7 @@ footer{
   position:absolute;
   bottom:0;
   margin-top:50px;
+  font-size:14px;
 }
 
 .footerbrand{
