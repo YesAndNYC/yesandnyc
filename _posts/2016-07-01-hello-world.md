@@ -1,5 +1,5 @@
 ---
-layout:blog
+layout: blog
 title: Hello World
 subtitle: Where do beginnings come from?
 ---
