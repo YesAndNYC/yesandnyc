@@ -81,6 +81,8 @@ footer{
   text-align:center;
   color:#434343;
   margin-top:75px;
+  position:absolute;
+  bottom:0;
 }
 
 .footerbrand{
