@@ -11,7 +11,6 @@ body{
 }
 
 p{
-  font-family:'open sans';
   font-size:20px;
   }
 
@@ -80,14 +79,22 @@ margin-top:35px;
   width:100%;
 }
 
-.homepagebox h1{
-  width:400px;
-  margin:50px;
-}
+.homepagebox span{
+   font-weight:600;
+   font-size:50px;
+ }
+
+.homepagebox span:after{
+    width: 100px;
+    display: block;
+    border-bottom: 8px solid #00ff00;
+    margin-left: 143px;
+    margin-top: -15px;
+    content: '';
+ }
 
 .homepagebox p{
-  width:800px;
-
+  
 }
 
 footer{
@@ -108,7 +115,6 @@ footer{
 }
 
 .footerinfo{
-  font-family:"open sans";
   font-size:20px;
   padding:10px;
   display:inline-block;
