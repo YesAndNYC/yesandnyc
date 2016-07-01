@@ -59,15 +59,16 @@ header .logo{
   text-decoration: none;
   color:#212121;
   border-bottom:2px solid #00ff00;
-    -webkit-transition: border 500ms ease;
-  -moz-transition: border 500ms ease;
-  -ms-transition: border 500ms ease;
-  -o-transition: border 500ms ease;
-  transition: border 500ms ease; 
+  -webkit-transition: border 100ms, padding 100ms;
+  -moz-transition: border 100ms, padding 100ms;
+  -ms-transition: border 100ms, padding 100ms;
+  -o-transition: border 100ms, padding 100ms;
+  transition: border 100ms, padding 100ms; 
 }
 
 .navigation a:hover{
   border-bottom:4px solid #00ff00;
+  padding-bottom:5px;
 }
 
 brand{
