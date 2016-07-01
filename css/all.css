@@ -6,6 +6,8 @@ html{
 
 body{
   color:#212121;
+  margin:0;
+  padding:0;
 }
 
 p{
@@ -54,6 +56,8 @@ header .logo{
   display:inline-block;
   float:right;
   margin-left:50px;
+  text-decoration: none;
+  color:#212121;
 }
 
 .navigation a:hover:after{
@@ -73,6 +77,8 @@ margin-top:35px;
 footer{
   width:100%;
   background-color:#f3f3f3;
+  margin:50px;
+  height:200px;
 }
 
 .footerbrand{
