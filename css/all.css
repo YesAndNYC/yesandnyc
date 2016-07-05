@@ -160,7 +160,7 @@ margin-bottom:15px;
   content:'';
     width: 100px;
     display: block;
-    border-bottom: 12px solid #00ff00;
+    border-bottom: 8px solid #00ff00;
     margin-left: -10px;
     margin-top:-15px;
 }
@@ -168,4 +168,9 @@ margin-bottom:15px;
 .subtitle{
 font-size:30px;
 font-weight:300;
+}
+
+blockquote{
+  border-left:8px solid #00ff00;
+  padding-left:5px;
 }
