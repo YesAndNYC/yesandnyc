@@ -4,6 +4,10 @@
   width:100%;
 }
 
+.homepagebox span{
+   font-size:15vw;
+ }
+
 header{
     font-size:20px;
     margin-top:10px;
