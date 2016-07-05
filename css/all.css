@@ -151,15 +151,16 @@ footer{
 }
 
 .posttitle{
-font-size:50px;
-font-weight:600;
+font-size:60px;
+font-weight:800;
+margin-bottom:15px;
 }
 
 .posttitle:after{
   content:'';
     width: 100px;
     display: block;
-    border-bottom: 8px solid #00ff00;
+    border-bottom: 12px solid #00ff00;
     margin-left: -10px;
     margin-top:-15px;
 }

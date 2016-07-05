@@ -1,10 +1,12 @@
 ---
 layout: blog
-title: Hello World
+title: The magnificent machinery of hands
 subtitle: Where do beginnings come from?
 ---
 
 I recently read The Creative World’s Bullshit Industrial Complex by Sean Blanda over at 99u. It’s a phenomenal piece on the current state of authority and fame on the web (especially in creative circles).
+
+>And most times, when we dig deeper into a specific person’s pitch, his or her purported authority is more of a facade to make them appear authoritative — and any ideas are actually a mosaic of people also trying to appear authoritative in a disconcerting house of cards.
 
 And most times, when we dig deeper into a specific person’s pitch, his or her purported authority is more of a facade to make them appear authoritative — and any ideas are actually a mosaic of people also trying to appear authoritative in a disconcerting house of cards.
 
