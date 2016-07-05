@@ -123,6 +123,13 @@ hr{
   text-align:center;
 }
 
+.threebox {
+    float: left;
+    width: 300px;
+    padding: 40px;
+}
+
+
 footer{
   width:100%;
   background-color:#f3f3f3;
