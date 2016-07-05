@@ -1,8 +1,17 @@
 {% include head.html %}
 
-{{content}}
+<div class="wrapper">
 
-{% include footer.html %}
+    <div class="container">
+
+    {% include header.html %}
+
+    {{page.content}}
+    </div>
+
+    </div>
+    {% include footer.html %}
+
+</div>
 
 {% include googleanalytics.html %}
-
