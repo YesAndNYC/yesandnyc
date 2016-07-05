@@ -153,11 +153,13 @@ footer{
 .pagetitle{
   font-size: 60px;
   font-weight: 800;
+  margin:auto;
 }
 
 .pagecontainer{
   width:100%;
   max-width:685px;
+  margin:auto;
 }
 
 /* blog page styling */
