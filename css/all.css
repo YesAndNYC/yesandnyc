@@ -85,6 +85,11 @@ width:55px;
 margin-top:35px;
 }
 
+hr{
+  width:50px;
+  margin:auto;
+}
+
 .homepagebox{
   width:800px;
   text-align:center;
