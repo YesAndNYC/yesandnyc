@@ -90,6 +90,7 @@ hr{
   margin:auto;
   margin-top:50px;
   margin-bottom:50px;
+  clear:both;
 }
 
 .homepagebox{
@@ -127,6 +128,13 @@ hr{
     float: left;
     width: 300px;
     padding: 40px;
+    text-align:left;
+}
+
+.threebox h2:after{
+  content:'';
+  width:50px;
+  border-bottom:8px solid #00ff00;
 }
 
 
