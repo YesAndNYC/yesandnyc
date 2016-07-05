@@ -91,12 +91,14 @@ margin-top:35px;
 }
 
 .brandsmall:after{
-  display:block;
-  content:'';
-  width:100px;
-  border-bottom:4px solid #00ff00;
-  position:absolute;
-  right:0;
+    display: block;
+    content: '';
+    width: 50px;
+    border-bottom: 4px solid #00ff00;
+    position: absolute;
+    right: 0;
+    bottom: 3px;
+    z-index: -1;
 }
 
 hr{
