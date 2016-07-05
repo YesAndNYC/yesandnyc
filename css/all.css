@@ -140,6 +140,10 @@ hr{
   display:block;
 }
 
+.threebox p{
+  text-align:left;
+}
+
 
 footer{
   width:100%;
