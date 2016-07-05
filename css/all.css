@@ -95,8 +95,8 @@ margin-top:35px;
 }
 
 .homepagebox span{
-   font-weight:600;
-   font-size:50px;
+   font-weight:800;
+   font-size:90px;
    display:inline-block;
  }
 
@@ -163,5 +163,5 @@ font-weight:600;
 
 .subtitle{
 font-size:30px;
-color:grey;
+font-weight:300;
 }
