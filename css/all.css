@@ -94,7 +94,6 @@ hr{
 }
 
 .homepagebox{
-  width:800px;
   text-align:center;
   margin:auto;
   margin-top:100px;
@@ -118,6 +117,7 @@ hr{
   font-size:30px;
   line-height:40px;
   font-weight:200;
+  width:800px;
 }
 
 .homepagebox p{
@@ -135,6 +135,7 @@ hr{
   content:'';
   width:50px;
   border-bottom:8px solid #00ff00;
+  display:block;
 }
 
 
