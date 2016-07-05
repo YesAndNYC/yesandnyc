@@ -148,6 +148,18 @@ footer{
 }
 
 
+/* page styling */
+
+.pagetitle{
+  font-size: 60px;
+  font-weight: 800;
+}
+
+.pagecontainer{
+  width:100%;
+  max-width:685px;
+}
+
 /* blog page styling */
 
 .blogsummary{
