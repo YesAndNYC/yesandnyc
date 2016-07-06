@@ -21,6 +21,14 @@ header{
     width:200px;
 }
 
+.tombox h2{
+    font-size:30px;
+}
+
+.tombox h2, .tombox p{
+    padding-left:20px;
+}
+
 .postcontainer{
     margin-left:0;
 }
