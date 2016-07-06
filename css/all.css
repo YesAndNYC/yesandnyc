@@ -162,6 +162,19 @@ hr{
   text-align:left;
 }
 
+.quotebox{
+  font-size:30px;
+  line-height:40px;
+  text-align:center;
+}
+
+.quotebox:before{
+  content:'"';
+  font-family:'Times New Roman';
+  font-size:30px;
+  color:#00ff00;
+}
+
 
 footer{
   width:100%;
