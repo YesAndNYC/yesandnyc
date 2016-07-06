@@ -178,6 +178,7 @@ hr{
 
 .tombox{
   width:600px;
+  height:400px;
   margin:auto;
   border:4px solid #00ff00;
   position:relative;
@@ -185,9 +186,9 @@ hr{
 
 .tombox img{
   position:absolute;
-  left:-400px;
+  left:-100px;
   top:20px;
-  width:300px;
+  width:400px;
 }
 
 
