@@ -176,6 +176,15 @@ hr{
   color:#00ff00;
 }
 
+.quotebox:after{
+  content:'”';
+  font-family:'Georgia, serif';
+  font-size:60px;
+  font-weight:bold;
+  color:#00ff00;
+}
+
+
 .tombox{
   width:90%;
   max-width:800px;
