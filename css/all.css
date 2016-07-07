@@ -151,6 +151,10 @@ hr{
     text-align:left;
 }
 
+.threebox h2 img{
+  height:50px;
+}
+
 .threebox h2:after{
   content:'';
   width:50px;
