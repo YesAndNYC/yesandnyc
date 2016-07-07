@@ -169,7 +169,7 @@ hr{
 }
 
 .quotebox:before{
-  content:&ldquo;;
+  content:open-quote;
   font-family:'Georgia, serif';
   font-size:60px;
   font-weight:bold;
@@ -177,7 +177,7 @@ hr{
 }
 
 .quotebox:after{
-  content:&ldquo;
+  content:close-quote;
   font-family:'Georgia, serif';
   font-size:60px;
   font-weight:bold;
