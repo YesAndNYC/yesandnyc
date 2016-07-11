@@ -67,6 +67,6 @@ Yes! and... is the consulting practice of Tom Critchlow,
 
 ## Limited Availability
 
-Tom Critchlow
+A personal note from Tom: Hi there, I just had my first child. She's a bundle of sunshine and I'm trying hard to be present and available for her, hopefully for her whole life but certainly for the first few years. What this means is realistically I likely only have room for one or two more clients in 2016. And if I'm a little slower to respond to emails or if there are more typos than you expect please forgive me :) 
 
 tom@yesand.nyc / 917 414 9121
