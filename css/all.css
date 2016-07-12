@@ -234,18 +234,8 @@ footer{
   font-size:14px;
 }
 
-.footerbrand{
-  font-size:50px;
-  font-weight:600;
-  display:inline-block;
-  line-height:200px;
-}
-
-.footerinfo{
-  font-size:20px;
-  padding:10px;
-  display:inline-block;
-  text-align:left;
+footer .threebox p{
+  font-size:15px;
 }
 
 
