@@ -217,6 +217,11 @@ hr{
   padding-bottom:30px;
 }
 
+.clients{
+  width:100%;
+  max-width:800px;
+}
+
 
 
 footer{
