@@ -26,6 +26,11 @@ header{
     float:none;
 }
 
+.quotebox:before, .quotebox:after{
+    display:block;
+}
+
+
 .tombox{
     margin-bottom:0;
 }
