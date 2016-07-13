@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: 18 months on the road
-subtitle: Where do beginnings come from?
+title: Why I'm building a new consultancy brand called Yes! and...
+subtitle: Some thinking behind containers, connected networks and consulting 
 ---
 
 Hello world.
