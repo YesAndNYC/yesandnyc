@@ -14,6 +14,8 @@ The purpose of forming a new brand and identity for my work is simple - it's the
 
 As you know - there's a lot of power in naming things. The brain is hard wired to attach labels to things and pattern match off them. So by giving my consulting work a brand that isn't simply "Tom Critchlow doing things" I can pitch for larger pieces of work and work with companies that otherwise may have been put off.
 
+![](/images/homepagebrowser.png)
+
 ## On Connected Networks
 
 I've passed work to others while I've been working.
