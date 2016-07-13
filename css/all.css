@@ -222,7 +222,17 @@ hr{
   max-width:800px;
 }
 
+.contactbox{
+  border:4px solid #00ff00;
+  padding:20px;
+}
 
+.contactbox a{
+  text-decoration:none;
+}
+
+
+/* footer syle */
 
 footer{
   width:100%;
