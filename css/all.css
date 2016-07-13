@@ -104,8 +104,8 @@ margin-top:35px;
 hr{
   width:50px;
   margin:auto;
-  margin-top:50px;
-  margin-bottom:50px;
+  margin-top:70px;
+  margin-bottom:70px;
   clear:both;
 }
 
@@ -148,6 +148,7 @@ hr{
     float: left;
     width: 300px;
     padding: 50px;
+    padding-top:0px;
     text-align:left;
 }
 
@@ -223,7 +224,7 @@ hr{
 }
 
 .contactbox{
-
+padding-top:20px;
 }
 
 .contactbox a{
