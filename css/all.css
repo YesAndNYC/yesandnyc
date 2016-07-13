@@ -263,7 +263,7 @@ footer{
   font-size:14px;
   text-align:center;
   padding-top:100px;
-  padding-bottom:100px;
+  padding-bottom:50px;
   position:relative;
 }
 
@@ -274,7 +274,8 @@ footer .threebox p{
 footer brand{
   position:absolute;
   top:20px;
-}
+  margin-left:-27px;
+  }
 
 /* page styling */
 
