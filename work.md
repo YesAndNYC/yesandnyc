@@ -9,9 +9,9 @@ The modern marketing landscape moves fast and breaks things - keeping up is hard
 
 So that's where we come in.
 
-Previous clients include The New York Times, Hipmunk, Olapic and Google.
+Previous clients include The New York Times, Hipmunk and Olapic.
 
-We're small, intentionally. So we can work on problems that are ill defined. Not everything has to fit inside a box. Often the most pressing challenges are ill-defined and messy. And that's ok. If you're looking to hire an agency and need help we can advise on that too - either by pointing in you the direction of someone we know or getting involved in writing a good brief.
+We're small, intentionally. Which means we can work on problems that are ill defined. Not everything has to fit inside a box. Often the most pressing challenges are ill-defined and messy. And that's ok. If you're looking to hire an agency and need help we can advise on that too - either by pointing in you the direction of someone we know or getting involved in writing a good brief.
 
 If you want to engage with <span class="brandsmall">Yes! and...</span> there's a few ways we typically help out:
 
