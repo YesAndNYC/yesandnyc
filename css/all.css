@@ -319,8 +319,10 @@ font-weight:300;
 }
 
 .dateline{
-padding-top:50px;
-padding-bottom:50px;
+line-height:50px;
+font-size:14px;
+text-transform:uppercase;
+color:grey;
 }
 
 blockquote{
