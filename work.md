@@ -9,7 +9,8 @@ The modern marketing landscape moves fast and breaks things - keeping up is hard
 
 So that's where we come in.
 
-Previous slients include:
+Previous clients include:
+
 - The New York Times
 - Hipmunk
 - Olapic
