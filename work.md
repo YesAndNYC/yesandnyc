@@ -3,15 +3,17 @@ layout: page
 title: Your Trusted Marketing Advisor
 ---
 
-As a boutique consulting practice, Yes! and... exists to help companies define, build and manage digital marketing capabilities.
+As a boutique consulting practice, <span class="brandsmall">Yes! and...</span> exists to help companies define and build digital marketing capabilities.
 
-The modern marketing landscape moves fast and breaks things - keeping up is hard for startups who typically lack the expertise and knowledge in-house to know how to drive growth and where to invest. It's also hard for established companies who have defined ways of doing things which typically don't work so well in todays environment.
+The modern marketing landscape moves fast and breaks things - keeping up is hard for startups who typically lack the expertise in-house to know how to invest in growth. It's also hard for established companies who have defined ways of doing things which typically don't work well in todays environment.
 
 So that's where we come in.
 
-We're small, intentionally. So we can work on problems that are ill defined. Not everything has to fit inside a box. Often the most pressing challenges are ill-defined and messy. And that's ok. So many times I'll help point you in the right direction on a world class agency to hire. Or a freelancer who can start tomorrow. And if we can't help we'll tell you. Fast.
+Previous clients include The New York Times, Hipmunk, Olapic and Google.
 
-There's a few ways we typically help out:
+We're small, intentionally. So we can work on problems that are ill defined. Not everything has to fit inside a box. Often the most pressing challenges are ill-defined and messy. And that's ok. If you're looking to hire an agency and need help we can advise on that too - either by pointing in you the direction of someone we know or getting involved in writing a good brief.
+
+If you want to engage with <span class="brandsmall">Yes! and...</span> there's a few ways we typically help out:
 
 ## Strategy Workshops
 
@@ -21,6 +23,7 @@ Face to face workshops - where I bring research to the table and we work through
 
 Ongoing work takes many forms - but the kind of work we love the most is embedded within your teams, either on-site or just plugged into your slack channel. Sure, we can make decks and pitch you on the bigger picture but the most useful outputs here are often getting things done. 
 
+## Building Marketing Teams
 
 Notes:
 
