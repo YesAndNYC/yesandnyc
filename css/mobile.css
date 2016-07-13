@@ -30,6 +30,10 @@ header{
     display:block;
 }
 
+.quotebox:after{
+    padding-top:20px;
+}
+
 
 .tombox{
     margin-bottom:0;
