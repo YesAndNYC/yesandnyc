@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Why I'm building a new consultancy brand called Yes! and...
-subtitle: Some thinking behind containers, connected networks and consulting 
+subtitle: Some thinking on containers, connected networks and consulting 
 ---
 
 Hello world.
