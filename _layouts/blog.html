@@ -10,6 +10,9 @@
     <div class="posttitle">{{page.title}}</div>
     {% if page.subtitle %}<div class="subtitle">{{page.subtitle}}</div>{% endif %}
 
+    <div class="datline">Written by Tom Critchlow {% if page.date %}on {{ page.date | date: "%B %-d, %Y" }}</div>
+  {% endif %}
+
     {{page.content}}
     </div>
 
