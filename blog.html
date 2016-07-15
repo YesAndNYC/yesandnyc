@@ -1,15 +1,37 @@
 ---
-layout: page
-title: Blog
 ---
 
+{% include head.html %}
+
+<div class="wrapper">
+
+    <div class="container">
+
+    {% include header.html %}
+
+    <div class="postcontainer">
+    
     {% for post in site.posts %}
 
     
-        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-        <p>{{ post.date | date: "%B %-d, %Y" }} - {{post.subtitle}}</p>
+     <div class="posttitle"><a href="{{post.url}}">{{post.title}}</a></div>
+    {% if post.subtitle %}<div class="subtitle">{{post.subtitle}}</div>{% endif %}
+
+    <div class="dateline">{{ post.date | date: "%B %-d, %Y" }}</div>
+
     
 
     {% endfor %}
 
+    </div>
+
+    </div>
+    {% include footer.html %}
+
+</div>
+
+{% include googleanalytics.html %}
+
+
+    
     
