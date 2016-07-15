@@ -295,6 +295,10 @@ footer brand{
 
 /* blog page styling */
 
+.posttitle a{
+  color:#212121;
+  text-decoration:none;
+}
 
 
 /* blog post styling */
