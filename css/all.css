@@ -8,8 +8,6 @@ body{
   color:#212121;
   margin:0;
   padding:0;
-  -webkit-font-smoothing: antialiased;
-    font-smoothing: antialiased;
     -webkit-text-rendering: optimizeLegibility;
     text-rendering: optimizeLegibility;
 }
@@ -26,7 +24,7 @@ body{
 
 ul, li, p{
   font-size:20px;
-  line-height:30px;
+  line-height:34px;
   }
 
 p a {
