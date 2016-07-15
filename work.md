@@ -25,15 +25,15 @@ Face to face workshops - where I bring research to the table and we work through
 
 ## Embedded Marketing Strategy
 
-Ongoing work takes many forms - but the kind of work we love the most is embedded within your teams, either on-site or just plugged into your slack channel. Sure, we can make decks and pitch you on the bigger picture but the most useful outputs here are often getting things done. 
+Ongoing work takes many forms - but the kind of work we love the most is embedded within your teams, either on-site or just plugged into your slack channel. This ongoing work often revolves around the core principle of helping clients define and build new marketing capabilities - whether in content marketing, SEO, audience development or helping to lead brand positioning and market research. 
 
 ## Building Marketing Teams
 
-Helping to scale publishing / editorial / technology / content
+Finding marketing talent is hard and we have a lot of experience finding, hiring, training and leading teams of marketing and editorial talent. Think of us as something like a consultative recruiter - helping to define the needs in the first place and then helping to source the right people for the role.
 
 ## Tom + A distributed team
 
-Yes! and... is the consulting practice of Tom Critchlow, 
+<span class="brandsmall">Yes! and...</span> is the consulting practice of Tom Critchlow, but often partnering with trusted freelancers and agencies to help execute on projects. If you don't know where to start come to us and we can help point you in the right direction. 
 
 ## Limited Availability
 
