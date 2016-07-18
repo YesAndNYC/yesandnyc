@@ -229,8 +229,8 @@ hr{
 }
 
 .clients{
-  width:100%;
-  max-width:800px;
+  height:75px;
+  padding:25px;
 }
 
 .contactbox{
