@@ -9,6 +9,7 @@ http://kindasortamedia.com/
 Grigory Koan
 Erica Heinz (the agency)
 Patrick Kazelmus
+Amrit Richmond
 
 
 
