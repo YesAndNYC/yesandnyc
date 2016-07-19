@@ -15,7 +15,7 @@ Previous clients include:
 - Hipmunk
 - Olapic
 
-We're small, intentionally. Which means we can work on problems that are ill defined. Not everything has to fit inside a box. Often the most pressing challenges are ill-defined and messy. And that's ok. If you're looking to hire an agency and need help we can advise on that too - either by pointing in you the direction of someone we know or getting involved in writing a good brief.
+We're small, intentionally. Which means we can work on problems that are ill defined. Not everything has to fit inside a box. Often the most pressing challenges are messy and that's ok. If you're looking to hire an agency and need help we can advise on that too - either by pointing in you the direction of someone we know or getting involved in writing a good brief.
 
 If you want to engage with <span class="brandsmall">Yes! and...</span> there's a few ways we typically help out:
 
@@ -39,4 +39,4 @@ Finding marketing talent is hard and we have a lot of experience finding, hiring
 
 A personal note from Tom: Hi there, I just had my first child. She's a bundle of sunshine and I'm trying hard to be present and available for her, hopefully for her whole life but certainly for the first few years. What this means is realistically I likely only have room for one or two more clients in 2016. And if I'm a little slower to respond to emails or if there are more typos than you expect please forgive me :) 
 
-tom@yesand.nyc / 917 414 9121
+<a href="mailto:tom@yesand.nyc">tom@yesand.nyc</a> / 917 414 9121
