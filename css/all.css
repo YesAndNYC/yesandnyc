@@ -4,9 +4,6 @@ html{
   font-family:'raleway';
 }
 
-::selection {
-background-color:#00ff00;
-}
 
 body{
   color:#212121;
