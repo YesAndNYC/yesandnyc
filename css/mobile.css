@@ -34,6 +34,10 @@ header{
     padding-top:30px;
 }
 
+.clients{
+    width:80%;
+    height:initial;
+}
 
 .tombox{
     margin-bottom:0;
