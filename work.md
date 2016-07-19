@@ -21,7 +21,7 @@ If you want to engage with <span class="brandsmall">Yes! and...</span> there's a
 
 ## Strategy Workshops
 
-Face to face workshops - where I bring research to the table and we work through your mental models and challenge assumptions can be incredibly valuable. Not only as a way of moving forward but also as a way of aligning and working together to know that there's a good fit.
+Face to face workshops - where I bring research to the table and we challenge assumptions can be incredibly valuable. Not only as a way of moving forward but also as a way of aligning and working together to know that there's a good fit.
 
 ## Embedded Marketing Strategy
 
