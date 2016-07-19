@@ -43,15 +43,6 @@ p a:hover{
   border-bottom:4px solid #00ff00;
 }
 
-#disqus_thread a{
-   border-bottom:1px solid #00ff00;
-text-decoration: none;
-}
-
-#disqus_thread a:hover{
-border-bottom:4px solid #00ff00;
-}
-
  header{
    width:100%;
    font-family:'raleway';
