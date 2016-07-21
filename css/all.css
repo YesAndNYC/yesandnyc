@@ -102,11 +102,11 @@ margin-top:35px;
 .brandsmall:after{
     display: block;
     content: '';
-    width: 50px;
+    width: 44px;
     border-bottom: 4px solid #00ff00;
     position: absolute;
     right: 0;
-    bottom: 5px;
+    top:22px;
     z-index: -1;
 }
 
