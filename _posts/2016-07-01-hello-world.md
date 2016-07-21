@@ -1,8 +1,28 @@
 ---
 layout: blog
 title: Why I'm building a new consulting practice called Yes! and...
-subtitle: Some thinking on containers, connected networks and independent consulting 
+subtitle: New beginnings, 18 months in 
 ---
+
+Hello world!
+
+I've been working as an independent consultant for the past 18 months and today I'm launching a new identity for my work called <span class="brandsmall">Yes! and...</span>
+
+Being self employed is a lot like going on a road trip. It's exciting, sure, but also brings with it a sense of being untethered, of being a long way from home. Always looking to the horizon and the next rest stop, never stopping to build routines. So <span class="brandsmall">Yes! and...</span> is an acknowledgement that being on the road is now home (metaphorically of course, IRL Brooklyn is still my home although I a coffeeshop nomad).
+
+## Why the name?
+
+The name <span class="brandsmall">Yes! and...</span> is a nod to the improvisational nature of consulting. Working closely with startups and media companies there is no *normal* and so you have to think on your feet, extrapolate examples and generally figure out the rocketship mid-air. But it's important not to bullshit. So <span class="brandsmall">Yes! and...</span> is a nod towards fast thinking, but also a reflection of my default positive attitude. No matter how much bu$ine$$ tries, ultimately there's people involved and I try to build empathetic solutions that take the humans into consideration.
+
+## Great! So, what is the work that you do?
+
+Good question! As an independent consultant the kind of work I've done has been wide and varied. For example:
+
+I've worked with media companies like the New York Times and Complex Media on the mechanics of content - SEO strategy, audience development and .
+
+I've also worked with startups - I worked with Olapic as their interim CMO while they sourced a full-time candidate, diving into immediate needs they had and adding some stability in a fast moving environment. I've worked with other startups to guide them on content strategy, how to build editorial content teams that can produce content at scale and 
+
+
 
 Hello world!
 
@@ -50,7 +70,11 @@ If you want to get in touch; <a href="https://twitter.com/tomcritchlow">@tomcrit
 
 Thanks.
 
+Thanks to Jim, Brian, Kyle, Dave, Luke, Ron, John, Gary
 
+## Fragile Freedom
+
+It's a fragile freedom but it's the life I'm looking to lead. So the question becomes how to transition a freelance gig into resilience. Time to grow up a little and  
 
 
 

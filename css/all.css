@@ -27,7 +27,7 @@ body{
 
 ul, li, p{
   font-size:20px;
-  line-height:30px;
+  line-height:35px;
   -webkit-font-smoothing: initial;
     font-smoothing: initial;
   }
@@ -232,6 +232,11 @@ hr{
 .clients{
   height:75px;
   padding:25px;
+  vertical-align:middle;
+}
+
+.clientscomplex{
+  height:60px;
 }
 
 .contactbox{
