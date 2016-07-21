@@ -28,17 +28,21 @@ In concrete terms, engagements typically start out in one of three ways:
 - Project based work to define & build the marketing engine, this is typically embedded within your organization
 - Recruiting work, helping to understand who you're trying to hire and then finding them
 
-Read a little more about the mechanics of the work I do over on my <a href='/work">work page</a>.
+Read a little more about the mechanics of the work I do over on my <a href="/work">work page</a>.
 
 ## On Connected Networks & Consulting
 
-The lifeblood of a consulting business is the referral network that provides a gravity to attract interesting work and I've been inspired by those around me building networks of support for independents. Big thanks to [Gary Chou](http://orbital.nyc/), [Brian Dell](https://twitter.com/itsbdell), [Kyle Monson](https://twitter.com/kmonson), [Arnold Waldstein(http://arnoldwaldstein.com/), [Jim Babb](http://www.partandsum.com/), [Dave Dawson](http://www.iamdavedawson.com/), [Luke Chatelain](https://twitter.com/lukechatelain), [Dave Minchala](https://twitter.com/daveminchala), [John Doherty](http://www.johnfdoherty.com/), [Ron Garrett](http://www.rongarrett.co/) for support, clients, advice and insight along the way.
+The lifeblood of a consulting business is the referral network that provides a gravity to attract interesting work and I've been inspired by those around me building networks of support for independents. Big thanks to [Gary Chou](http://orbital.nyc/), [Brian Dell](https://twitter.com/itsbdell), [Kyle Monson](https://twitter.com/kmonson), [Arnold Waldstein](http://arnoldwaldstein.com/), [Jim Babb](http://www.partandsum.com/), [Dave Dawson](http://www.iamdavedawson.com/), [Luke Chatelain](https://twitter.com/lukechatelain), [Dave Minchala](https://twitter.com/daveminchala), [John Doherty](http://www.johnfdoherty.com/), [Ron Garrett](http://www.rongarrett.co/) for support, clients, advice and insight along the way.
 
-Anyway - here's a nice hello world from <span class="brandsmall">Yes! and...</span> 
+## So What's Next?
 
-If you want to get in touch; <a href="https://twitter.com/tomcritchlow">@tomcritchlow</a>, <a href="https://www.linkedin.com/in/tomcritchlow">linkedin</a> or <a href="mailto:tom@yesand.nyc">tom@yesand.nyc</a>.
+I'm going to be writing a little more frequently on the inner workings of running an independent consulting practice and also sharing some of my thinking around content, audience development and marketing.
 
-Thanks.
+But for now, hello from over here at <span class="brandsmall">Yes! and...</span> 
+
+If you want to get in touch or grab a coffee just get in touch; <a href="https://twitter.com/tomcritchlow">@tomcritchlow</a>, <a href="https://www.linkedin.com/in/tomcritchlow">linkedin</a> or <a href="mailto:tom@yesand.nyc">tom@yesand.nyc</a>.
+
+Thanks!
 
 
 
