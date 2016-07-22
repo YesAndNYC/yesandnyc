@@ -5,9 +5,9 @@ title: Your Trusted Marketing Advisor
 
 <span class="brandsmall">Yes! and...</span> is a boutique consulting practice that helps companies define and build digital marketing capabilities.
 
-Our work with media companies such as The New York Times and Complex Media focuses on audience development, SEO and content distribution.
+Our work with media companies such as **The New York Times** and **Complex Media** focuses on audience development, SEO and content distribution.
 
-Our work with startups such as Olapic and Hipmunk focuses on providing marketing guidance, leadership and strategy to help build the marketing engine.
+Our work with startups such as **Olapic** and **Hipmunk** focuses on providing marketing guidance, leadership and strategy to help build the marketing engine.
 
 We're small, intentionally. Which means we can work on problems that are ill defined. Not everything has to fit inside a box. That said, here are the most common ways that we engage with clients: 
 
