@@ -3,6 +3,29 @@ layout: page
 title: Your Trusted Marketing Advisor
 ---
 
+<span class="brandsmall">Yes! and...</span> is a boutique consulting practice that helps companies define and build digital marketing capabilities.
+
+Our work with media companies such as The New York Times and Complex Media focuses on audience development, SEO and content distribution.
+
+Our work with startups such as Olapic and Hipmunk focuses on providing marketing guidance, leadership and strategy to help build the marketing engine.
+
+We're small, intentionally. Which means we can work on problems that are ill defined. Not everything has to fit inside a box. That said, here are the most common ways that we engage with clients: 
+
+## Strategy Workshops
+
+Face to face workshops - where I bring research to the table and we challenge assumptions can be incredibly valuable. Not only as a way of moving forward but also as a way of aligning and working together to know that there's a good fit.
+
+## Embedded Marketing Strategy
+
+Ongoing work takes many forms - but the kind of work we love the most is embedded within your teams, either on-site or just plugged into your slack channel. This ongoing work often revolves around the core principle of helping clients define and build new marketing capabilities - whether in content marketing, SEO, audience development or helping to lead brand positioning and market research. 
+
+## Building Marketing Teams
+
+Finding marketing talent is hard and we have a lot of experience finding, hiring, training and leading teams of marketing and editorial talent. Think of us as something like a consultative recruiter - helping to define the needs in the first place and then helping to source the right people for the role.
+
+
+
+
 As a boutique consulting practice, <span class="brandsmall">Yes! and...</span> exists to help companies define and build digital marketing capabilities.
 
 The modern marketing landscape moves fast and breaks things - keeping up is hard for startups who typically lack the expertise in-house to know how to invest in growth. It's also hard for established companies who have defined ways of doing things which typically don't work well in todays environment.
