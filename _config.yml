@@ -1,7 +1,0 @@
-# Permalinks
-permalink:        pretty
-
-
-collections:
-  artists:
-    output: true
